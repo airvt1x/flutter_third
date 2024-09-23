@@ -1,7 +1,3 @@
-# Программирование корпоративных систем
-
-## 3 работа
-
-![image](https://github.com/user-attachments/assets/b1a4e358-3bac-4a60-b772-ede9470fd6f8)
-
-![image](https://github.com/user-attachments/assets/300a38bc-9ad0-409b-bf35-51ecd9442bee)
+ Багаутдинов Айрат Эдуардович ЭФБО-02-22
+![image](https://github.com/user-attachments/assets/372d6a42-c26e-427e-8581-c75d4cf1c067)
+![image](https://github.com/user-attachments/assets/722c6631-5a49-47ab-83cb-ccfe7394d8cb)
